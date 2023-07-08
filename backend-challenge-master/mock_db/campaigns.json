@@ -1,0 +1,38 @@
+[
+  {
+    "campaign_id": 195,
+    "redirect_url": "https://proqure-app.com/wine-brand/educational/premium-wine-2020",
+    "default_url": "https://wine-brand-abc.com",
+    "campaign_name": "Premium Wine Information",
+    "rule_name": "sequence_of_taps",
+    "campaign_description": "Premium Wine Informational Campaign",
+    "product_id": 101,
+    "status": "running",
+    "created_at": "2021-05-12T02:19:32.828Z",
+    "updated_at": "2021-09-29T02:35:15.476Z"
+  },
+  {
+    "campaign_id": 196,
+    "redirect_url": "https://proqure-app.com/wine-brand/survey/premium-wine-2020-feedback",
+    "default_url": "https://wine-brand-abc.com/",
+    "campaign_name": "Premium Wine 2020 Feedback",
+    "rule_name": "sequence_of_taps",
+    "campaign_description": "",
+    "product_id": 110,
+    "status": "running",
+    "created_at": "2021-05-12T06:01:23.007Z",
+    "updated_at": "2021-08-16T01:13:39.205Z"
+  },
+  {
+    "campaign_id": 197,
+    "redirect_url": "https://proqure-app.com/wine-brand/reordering/premium-wine-2020",
+    "default_url": "https://wine-brand-abc.com/",
+    "campaign_name": "Premium Wine 2020 Reordering",
+    "rule_name": "sequence_of_taps",
+    "campaign_description": "",
+    "product_id": 113,
+    "status": "stopped",
+    "created_at": "2021-05-12T06:06:40.294Z",
+    "updated_at": "2021-08-03T03:38:47.601Z"
+  }
+]
